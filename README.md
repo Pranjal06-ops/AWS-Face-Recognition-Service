@@ -1,2 +1,7 @@
-# AWS-Face-Recognition-Service
-RESTful face recognition service built with FastAPI and a dummy CNN model, featuring Docker support, AWS S3 image storage, and SQS queue placeholders. Fully structured for easy extension to real models, scalable deployments, and production-ready API integration.
+# AWS Face Recognition as a Service
+
+Ready-to-run dummy version with FastAPI, Docker, S3 & SQS integration.
+
+- POST /face/recognize to test dummy predictions.
+- S3 and SQS functions are included for integration.
+- Docker ready.
